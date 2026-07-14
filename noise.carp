@@ -156,3 +156,5 @@
             (set! freq (* freq lacunarity))))
         (/ total max-amp))))
 )
+
+(load "fast.carp")
